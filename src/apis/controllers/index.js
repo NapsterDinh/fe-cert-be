@@ -1,0 +1,7 @@
+module.exports.userController = require('./user.controller')
+module.exports.moduleController = require('./module.controller')
+module.exports.questionController = require('./question.controller')
+module.exports.examController = require('./exam.controller')
+module.exports.tutorialController = require('./tutorial.controller')
+module.exports.topicController = require('./topic.controller')
+module.exports.pricingController = require('./pricing.controller')

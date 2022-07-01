@@ -1,0 +1,7 @@
+module.exports.tokenService = require('./token.service')
+module.exports.userService = require('./user.service')
+module.exports.moduleService = require('./module.service')
+module.exports.questionService = require('./question.service')
+module.exports.examService = require('./exam.service')
+module.exports.topicService = require('./topic.service')
+module.exports.pricingService = require('./pricing.service')
